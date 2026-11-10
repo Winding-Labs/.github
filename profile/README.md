@@ -5,6 +5,7 @@ We're a small software studio. This is what we make.
 ## For travellers
 
 - **[Highlights.AI](https://highlights.ai).** Plan a trip in one sentence. Sally, the balloon guide, plans every day with real places, opening hours, travel times and a map; friends answer Going, Maybe or Can't go from one link. iOS, Android and the web. The app's code is private. How we tested the models behind it: [LLM judges favour their own lab: notes from grading 472 trip plans](https://write.as/mm108410mcroa.md).
+- **[Stories](https://getstories.app).** Self-guided audio walking and driving tours of US cities and roads: a short story plays at each stop as you arrive, and the first stop of every tour plays free in any phone's browser. iPhone app and the web. The app's code is private.
 
 ## For families
 
