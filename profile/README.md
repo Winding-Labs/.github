@@ -8,6 +8,7 @@ We're a small software studio. This is what we make.
 
 ## For families
 
+- **[Gluten](https://gluten.ai).** A meal planner for households where people eat differently: it plans dinners everyone at the table can eat around food allergies, diets and health conditions, and checks every recipe against each person's restrictions. Free to start on iPhone, Android and the web. The app's code is private.
 - **Tumbly: Kids Engineering Games.** Kids to Engineers: four engineering games for kids 3 to 12. The app's code is private; the app is at [tumbly.ai](https://tumbly.ai/).
 
 ## For people who build software
