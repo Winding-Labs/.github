@@ -2,6 +2,10 @@
 
 We're a small software studio. This is what we make.
 
+## For travellers
+
+- **[Highlights.AI](https://highlights.ai).** Plan a trip in one sentence. Sally, the balloon guide, plans every day with real places, opening hours, travel times and a map; friends answer Going, Maybe or Can't go from one link. iOS, Android and the web. The app's code is private. How we tested the models behind it: [LLM judges favour their own lab: notes from grading 472 trip plans](https://write.as/mm108410mcroa.md).
+
 ## For families
 
 - **Tumbly: Kids Engineering Games.** Kids to Engineers: four engineering games for kids 3 to 12. The app's code is private; the app is at [tumbly.ai](https://tumbly.ai/).
